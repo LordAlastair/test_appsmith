@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[{\n  \"Tipo\": \"ALI\",\n  \"Baixa\": \"7\",\n  \"Media\": \"10\",\n  \"Alta\": \"15\"\n}, {\n  \"Tipo\": \"AIE\",\n  \"Baixa\": \"5\",\n  \"Media\": \"7\",\n  \"Alta\": \"10\"\n}, {\n  \"Tipo\": \"EE\",\n  \"Baixa\": \"3\",\n  \"Media\": \"4\",\n  \"Alta\": \"6\"\n}, {\n  \"Tipo\": \"SE\",\n  \"Baixa\": \"4\",\n  \"Media\": \"5\",\n  \"Alta\": \"7\"\n}, {\n  \"Tipo\": \"CE\",\n  \"Baixa\": \"3\",\n  \"Media\": \"5\",\n  \"Alta\": \"6\"\n}]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page1_JSObject1",
+  "deleted": false,
+  "gitSyncId": "654bb3e1f9d82c1c6a1ddf40_654bc01b8dfed13c3b76079e"
+}

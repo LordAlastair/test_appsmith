@@ -1,0 +1,80 @@
+{
+    "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)",
+    "widgetName": "Container1",
+    "borderColor": "#2E3D4955",
+    "dynamicPropertyPathList": [{"key": "borderRadius"}],
+    "topRow": 0,
+    "bottomRow": 87.2,
+    "parentRowSpace": 10,
+    "type": "CONTAINER_WIDGET",
+    "shouldScrollContents": true,
+    "parentColumnSpace": 19.75,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 0,
+    "dynamicBindingPathList": [{"key": "borderRadius"}],
+    "children": [{
+        "boxShadow": "none",
+        "widgetName": "Canvas1",
+        "topRow": 0,
+        "bottomRow": 872,
+        "parentRowSpace": 1,
+        "canExtend": false,
+        "type": "CANVAS_WIDGET",
+        "minHeight": 850,
+        "useAutoLayout": true,
+        "parentColumnSpace": 1,
+        "dynamicTriggerPathList": [],
+        "leftColumn": 0,
+        "dynamicBindingPathList": [],
+        "positioning": "vertical",
+        "labelTextSize": "0.875rem",
+        "rightColumn": 632,
+        "detachFromLayout": true,
+        "widgetId": "59rw5mx0bq",
+        "containerStyle": "none",
+        "isVisible": "true",
+        "version": 1,
+        "parentId": "mvubsemxfo",
+        "isLoading": false,
+        "responsiveBehavior": "fill",
+        "borderRadius": "0px",
+        "flexLayers": [
+            {"children": [
+                {
+                    "id": "urzv99hdc8",
+                    "align": "start"
+                },
+                {
+                    "id": "8b67sbqskr",
+                    "align": "end"
+                },
+                {
+                    "id": "typ9jslblf",
+                    "align": "end"
+                }
+            ]},
+            {"children": [{
+                "id": "icx7cf3936",
+                "align": "center"
+            }]}
+        ]
+    }],
+    "borderWidth": "0",
+    "flexVerticalAlignment": "stretch",
+    "labelTextSize": "0.875rem",
+    "backgroundColor": "#FFFFFF",
+    "rightColumn": 32,
+    "dynamicHeight": "AUTO_HEIGHT",
+    "widgetId": "mvubsemxfo",
+    "containerStyle": "card",
+    "minWidth": 450,
+    "isVisible": "true",
+    "version": 1,
+    "parentId": "0",
+    "isLoading": false,
+    "responsiveBehavior": "fill",
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "maxDynamicHeight": 9000,
+    "alignment": "start",
+    "minDynamicHeight": 4
+}
